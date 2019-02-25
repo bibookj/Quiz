@@ -1,0 +1,65 @@
+html{
+    font-family: 'Lato', sans-serif;
+    
+}
+body{
+    background-color: #404040;
+    align-content: center;
+    color: white;
+
+}
+.container{
+    
+    background-color: #404040;
+}
+#logo{
+    color: white;
+    margin-top:20px;
+    font-size: 44px;
+    letter-spacing: 3px;
+    font-weight: 900;
+}
+#sidebar{
+    background-color: #dedede;
+    float: left;
+    min-width: 20%-2px;
+    min-height: 600px;
+    border-right: 2px dotted #666666;
+    color: #222222;
+    align-content: center;
+    padding: 10px;
+
+}
+#content{
+    float: left;
+    width: 80%;
+    min-height: 600px;
+    background-color: #dedede;
+    color: #222222;
+    padding: 20px;
+
+
+}
+
+.optionL{
+    font-size: 18px;
+    height: 25px;
+    padding: 10px;
+    border-bottom: 2px dotted #444444;
+}
+.optionL:hover{
+    background-color: #f36742;
+    color: white;
+    cursor: pointer;
+}
+
+#footer{
+    clear: both;
+}
+.bigText{
+    text-align: center;
+    font-weight: 900;
+}
+.radios{
+    font-weight: 900;
+}
